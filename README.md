@@ -6,6 +6,5 @@ This is a cheap module can be found on offer on AliExpress that integrates Wolfs
 
 
 Links to data sheets:
-https://www.analog.com/media/en/technical-documentation/data-sheets/adv7123.pdf
-
-https://www.alldatasheet.es/datasheet-pdf/pdf/174585/WOLFSON/WM8731.html
+* https://www.analog.com/media/en/technical-documentation/data-sheets/adv7123.pdf
+* https://www.alldatasheet.es/datasheet-pdf/pdf/174585/WOLFSON/WM8731.html
